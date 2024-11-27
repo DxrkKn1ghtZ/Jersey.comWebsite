@@ -18,9 +18,9 @@
       <p>Welcome to Jersey.Com, where passion for sports meets premium quality jerseys. Dive into our collection and wear your team pride with style and comfort, every game day.</p
        </li>
         <a href="#">
-            <li><a href="file:///D:/Images/Shop%20Page.html"> Shop Page</a>
+            <li><a href="https://github.com/DxrkKn1ghtZ/Jersey.comWebsite/blob/main/readme.md"> Shop Page</a>
          <a href="#">
-          <li><a href="file:///D:/Images/Contacts%20Page.html"> Contacts Page</a>
+          <li><a href="https://github.com/DxrkKn1ghtZ/Jersey.comWebsite/blob/main/ReadMe.md"> Contacts Page</a>
         </li>
         </ul>
         </nav>
