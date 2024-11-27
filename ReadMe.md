@@ -6,7 +6,7 @@
       initial-scale=1.0">
     <title>Contact Us - Jersey.Com</title>
       <h2>Contact Us</h2>
-      <p>Contacts of the owner of Jersey.Com. If you have any questions, email him. 
+      <p>Contacts of the owner of Jersey.Com. If you have any questions, feel free to email him. 
     <form action="/submit_contact" method="POST">
         <div class="form-group">
           <label for="name">Name: Jersey.Com  Jasjot</label>
